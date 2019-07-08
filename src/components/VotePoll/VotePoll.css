@@ -1,0 +1,12 @@
+.VotePoll {
+    text-align: center;
+    width: 50%;
+    margin: auto;
+    margin: 10% auto auto auto;
+}
+
+@media(max-width: 499px) {
+    .VotePoll {
+        width: 100%;
+    }
+}
